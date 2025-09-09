@@ -533,14 +533,7 @@ ALTER DATABASE postgres SET timezone TO 'UTC';
 - **Slack**: [Workspace de Slack]
 - **LinkedIn**: [Página de LinkedIn]
 
-## 📄 Licencia
 
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
-
-```
-MIT License
-
-Copyright (c) 2024 FleetCare
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -561,16 +554,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-## 🙏 Agradecimientos
 
-- **React Team** - Por la excelente biblioteca de UI
-- **Supabase Team** - Por el backend como servicio
-- **Tailwind CSS** - Por el framework de CSS utilitario
-- **Lucide** - Por los iconos modernos y consistentes
-- **Vite Team** - Por la herramienta de construcción rápida
-
----
 
 **FleetCare** - Desarrollado con ❤️ para optimizar la gestión de flotas vehiculares.
 
-*Última actualización: Enero 2024*
